@@ -22,7 +22,7 @@ Software requirements are as follows:
 6.  sklearn 
 
 If you are starting from scratch, and have none of the above installed, consider getting them via 
-(Anaconda)[https://www.continuum.io/downloads], which includes all of the above (and more!) in an easy-to-use bundle. 
+[Anaconda](https://www.continuum.io/downloads), which includes all of the above (and more!) in an easy-to-use bundle. 
 
 
 Last, as you get toward the bottom of the notebook and GridSearchCV, you may want to consider porting your notebook workflow into a python script that can be run via your terminal.  I have anecdotally found that some commands were running very slowly in the notebook, but faster when put in a script.
